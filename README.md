@@ -20,3 +20,7 @@
 
   > docker compose 文章实战部分的示例项目
 
++ recommended_v2.5.1.yaml
+
+  > kubernetes 文章中，部署dashboard部分 `https://raw.githubusercontent.com/kubernetes/dashboard/v2.5.1/aio/deploy/recommended.yaml` 所链接的原文。<font color="green">属于转载资源。</font>
+

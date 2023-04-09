@@ -20,6 +20,12 @@
 
   > docker compose 文章实战部分的示例项目
 
++ corejava
+
+  > Java 核心技术相关代码  Core Java Volume Ⅰ —— Fundamentals
+  > book.api 书中涉及到的java基础类和接口的解析
+  > book.code 书中涉及到的示例源码（拷贝自 http://horstmann.com/corejava）
+
 + recommended_v2.5.1.yaml
 
   > kubernetes 文章中，部署dashboard部分 `https://raw.githubusercontent.com/kubernetes/dashboard/v2.5.1/aio/deploy/recommended.yaml` 所链接的原文。<font color="green">属于转载资源。</font>

@@ -32,3 +32,6 @@
 
   > kubernetes 文章中，部署dashboard部分 `https://raw.githubusercontent.com/kubernetes/dashboard/v2.5.1/aio/deploy/recommended.yaml` 所链接的原文。<font color="green">属于转载资源。</font>
 
++ VMware安装CentOS7.docx
+
+  > 基于 VMware Workstation 安装 CentOS 7 系统 过程截图

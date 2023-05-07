@@ -35,3 +35,9 @@
 + VMware安装CentOS7.docx
 
   > 基于 VMware Workstation 安装 CentOS 7 系统 过程截图
+
++ sql
+  
+  > SQL学习笔记涉及到的相关sql文件
+  > 
+  >  create-databases.sql  基础环境sql脚本

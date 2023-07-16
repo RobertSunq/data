@@ -20,14 +20,6 @@
 
   > docker compose 文章实战部分的示例项目
 
-+ corejava
-
-  > Java 核心技术相关代码  Core Java Volume Ⅰ —— Fundamentals
-  >
-  > book.api 书中涉及到的java基础类和接口的解析
-  >
-  > book.code 书中涉及到的示例源码（拷贝自 http://horstmann.com/corejava）
-
 + recommended_v2.5.1.yaml
 
   > kubernetes 文章中，部署dashboard部分 `https://raw.githubusercontent.com/kubernetes/dashboard/v2.5.1/aio/deploy/recommended.yaml` 所链接的原文。<font color="green">属于转载资源。</font>
@@ -36,11 +28,25 @@
 
   > 基于 VMware Workstation 安装 CentOS 7 系统 过程截图
 
-+ sql
-  
-  > SQL学习笔记涉及到的相关sql文件
-  > 
-  >  create-databases.sql  基础环境sql脚本
+###### corejava
+
+> Java 核心技术相关代码  Core Java Volume Ⅰ —— Fundamentals
+>
+> book.api 书中涉及到的java基础类和接口的解析
+>
+> book.code 书中涉及到的示例源码（拷贝自 http://horstmann.com/corejava）
+
+###### sql
+
++ create-databases.sql  
+
+  > SQL学习笔记涉及到的相关sql文件,   基础环境sql脚本
+
+###### windows
+
++ win10.win11系统激活工具.cmd
+
+  > 系统激活脚本
 
 #### drawio
 
